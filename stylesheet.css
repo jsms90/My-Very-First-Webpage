@@ -1,0 +1,55 @@
+* {
+    font-family: Garamond, serif;
+}
+
+#header {
+    z-index: 1;
+    border-radius: 5px;
+    width: 87%;
+    margin: -25px 10px 10px 5px;
+    height: 110px;
+    background-color: #089FD1;
+    color: white;
+    padding: 5px;
+}
+
+p a {
+  float: right;
+  margin-right: 20px;
+}
+
+#header p {
+  font-size: 20px;
+}
+
+.left {
+  float: left;
+  position: inline;
+  font-size: 20px;
+  width: 50%;
+  margin-left: 30px;
+}
+
+#indent {
+  text-align: center;
+}
+
+.right {
+  position: relative;
+  float: right;
+  margin-top: 20px;
+  margin-right: 170px;
+}
+
+img {
+  height: 400px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+table, th, td {
+  border: 2px solid #089FD1;
+  border-collapse: collapse;
+}
